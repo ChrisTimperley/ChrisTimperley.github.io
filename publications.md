@@ -4,8 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### Submitted
+
 * **Wallace: A Generic Framework for Evolutionary Computation.**<br/>
-  Chris Timperley, Susan Stepney. **(Submitted)**.
+  Chris Timperley, Susan Stepney.
+
+### Published
 
 * **Reflective Open-Ended Evolution.**<br/>
   Chris Timperley. *PhD Qualifying Dissertation, University of York, August 2014.*<br/>
