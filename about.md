@@ -26,6 +26,12 @@ permalink: /about/
   </tr>
 </table>
 
+<div class="divider"></div>
+
 ### Research
 
+<div class="divider"></div>
+
 ### Personal
+
+<img src="/images/karting.jpg" style="width: 160px; float: right; margin-left: 10px"/>
