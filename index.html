@@ -2,18 +2,28 @@
 layout: default
 ---
 <div class="home">
-  <div class="site-nav">
-    <image src="/images/profile.jpg" style="width:160px"/>
+
+  <div style='background-color: #eeeeee; margin-bottom: 15px; padding: 8px'>
+    <image src="/images/profile.jpg" style="width:160px; float: right"/>
+    <div style='padding: 8px;'>
+      I am a PhD student at the <a href="http://www.york.ac.uk">University of York</a>,
+      studying open-ended evolution and computational reflection,
+      within the <a href="http://www.cs.york.ac.uk">Department of Computer Science</a> and the
+      <a href="http://www.york.ac.uk/yccsa/">York Centre for Complex Systems Analysis</a>,
+      under the supervision of <a href="http://www-users.cs.york.ac.uk/susan/">Susan Stepney</a>.
+    </div>
+    <div style='clear:both'></div>
   </div>
-  <h1 class="page-heading">Posts</h1>
+
+  <h1 class="page-heading">Recent Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        A short description would go here.
       </li>
     {% endfor %}
   </ul>
