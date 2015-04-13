@@ -8,7 +8,8 @@ permalink: /publications/
   Chris Timperley, Susan Stepney. **(Submitted)**.
 
 * **Reflective Open-Ended Evolution.**<br/>
-  Chris Timperley. *PhD Qualifying Dissertation, University of York, August 2014.* **KM Stott Prize.**
+  Chris Timperley. *PhD Qualifying Dissertation, University of York, August 2014.*<br/>
+  *KM Stott Memorial Prize for Best Qualifying Dissertation.*
 
 * **[Reflective Grammatical Evolution.](http://dx.doi.org/10.7551/978-0-262-32621-6-ch013)**<br/>
   Chris Timperley, Susan Stepney. *ALIFE 2014, York, UK, July 2014.*
