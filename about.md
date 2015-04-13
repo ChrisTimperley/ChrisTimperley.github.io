@@ -35,3 +35,9 @@ permalink: /about/
 ### Personal
 
 <img src="/images/karting.jpg" style="width: 160px; float: right; margin-left: 10px"/>
+
+One of my greatest passions is for motorsport, whether it involves spectating or competing.
+I love karting, and have competed in the [British Universities Karting Championship](http://www.bukc.co.uk/)
+for several years, including a grueling, but incredible [24-hour endurance race](http://www.bukc.co.uk/news/24-bukc-edition),
+as well as driving in the [DMAX](http://www.daytonamax.co.uk/) and [Club100](http://www.club100.co.uk/) race series;
+my favourite track is the breathtaking [Glan-y-Gors](http://gygkarting.com/) in North Wales.
