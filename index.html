@@ -3,14 +3,31 @@ layout: default
 ---
 <div class="home">
 
-  <div style='background-color: #eeeeee; margin-bottom: 15px; padding: 8px'>
-    <image src="/images/profile.jpg" style="width:160px; float: right"/>
+  <div style="background-color: #efefef; margin-bottom: 20px; padding: 8px; border: 3px dashed #dddddd">
+    <image src="/images/profile.jpg" style="margin-left: 16px; width:160px; float: right"/>
     <div style='padding: 8px;'>
-      I am a PhD student at the <a href="http://www.york.ac.uk">University of York</a>,
+      <p>I am a PhD student at the <a href="http://www.york.ac.uk">University of York</a>,
       studying open-ended evolution and computational reflection,
       within the <a href="http://www.cs.york.ac.uk">Department of Computer Science</a> and the
       <a href="http://www.york.ac.uk/yccsa/">York Centre for Complex Systems Analysis</a>,
-      under the supervision of <a href="http://www-users.cs.york.ac.uk/susan/">Susan Stepney</a>.
+      under the supervision of <a href="http://www-users.cs.york.ac.uk/susan/">Susan Stepney</a>.</p>
+
+      <p>My <a href="/about/">research</a> currently focuses on replicating the
+        unbounded growth of complexity observed in the natural world in-silico,
+        through the use of computational reflection, the ability for a system to inspect and modify its own
+        behaviour as it runs.
+      </p>
+
+      <p>
+        Outside of my PhD, I also maintain an interest in the wider field of natural computing, software engineering,
+        artificial intelligence, as well as an avid interest in theoretical and evolutionary biology. In a past life
+        I was also an indie game developer and start-up entrepreneur.
+      </p>
+
+      <p style='margin-bottom: 0'>
+        When I'm not busy with research, I enjoy spending time karting up and down the country,
+        travelling around the world, and reading books at home.
+      </p>
     </div>
     <div style='clear:both'></div>
   </div>
@@ -27,5 +44,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
