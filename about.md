@@ -43,7 +43,7 @@ for several years, including a grueling, but rewarding <a href="http://www.bukc.
 as well as driving in the <a href="http://www.daytonamax.co.uk/">DMAX</a> and <a href="http://www.club100.co.uk/">Club100</a> race series;
 my favourite track is the breathtaking <a href="http://www.gygkarting.com/">Glan-y-Gors</a> in North Wales.</p>
 
-<img src="/images/vietnamese_food.jpg" style="width: 160px; float: left; margin-right: 10px"/>
+<img src="/images/sfx.jpg" style="width: 160px; float: left; margin-right: 10px"/>
 
 I also enjoy travelling around the world and exploring different cuisines and cultures, especially by train;
 thanks to my research, I've been fortunate enough to travel
