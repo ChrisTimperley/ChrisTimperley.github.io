@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![](/images/profile.jpg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+**Address**<br/>
+Christopher Timperley<br/>
+Department of Computer Science<br/>
+University of York<br/>
+YO10 5DD<br/>
+United Kingdom<br/>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**Contact Details**<br/>
+Email: [ct584@york.ac.uk](mailto:ct584@york.ac.uk)<br/>
+Phone: +44 (0)1904 325500<br/>
+Office: Ron Cooke Hub, RN/336<br/>
+
+### Research
+
+### Personal
