@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="home">
-
   <div style="background-color: #efefef; margin-bottom: 20px; padding: 8px; border: 3px dashed #dddddd">
     <image src="/images/profile.jpg" style="margin-left: 16px; width:160px; float: right"/>
     <div style='padding: 8px;'>
@@ -33,18 +32,4 @@ layout: default
     </div>
     <div style='clear:both'></div>
   </div>
-
-  <h1 class="page-heading">Recent Posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        A short description would go here.
-      </li>
-    {% endfor %}
-  </ul>
-  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
