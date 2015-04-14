@@ -27,7 +27,7 @@ permalink: /software/
   Following the success of TGODK, I spent two years developing Chaos2020, another highly ambitious MMORPG, set in the turmoil of a post-apocalyptic world
   in the aftermath of a nuclear war, where players come together to rebuild civilisation, fighting for control over the precious few resources left.
   After writing the game from scratch several times over, I eventually shelved it as I started university and the market sadly shrank.
-* [**University of York Karting Club Website**](http://www.yukc.co.uk).<br/>
+* **University of York Karting Club Website**.<br/>
   Replaced an archaic website with an extensive dynamic website, complete with an events system, details results and race analysis, and track and
   driver records. Built using [Rails](http://rubyonrails.org/), [HAML](http://haml.info/), [Bootstrap](http://getbootstrap.com/),
   [SASS](http://sass-lang.com/), [Puppet](https://puppetlabs.com/) and [Heroku](https://www.heroku.com/).
