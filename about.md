@@ -30,6 +30,18 @@ permalink: /about/
 
 ### Research
 
+My research interests roughly cover, but are not limited to:
+
+* natural computing methods.
+* evolutionary computation.
+* computational reflection.
+* meta-learning.
+* search-based software engineering.
+* automated optimisation and repair.
+* origins of life.
+* co-evolution.
+* social bacteria.
+* theoretical biology.
 
 <div class="divider"></div>
 
