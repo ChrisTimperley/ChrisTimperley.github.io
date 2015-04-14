@@ -2,6 +2,7 @@
 layout: page
 title: Travel
 permalink: /travel/
+buried: true
 ---
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=zZQo-obBD2V8.ksNq86_x_tuk" width="640" height="480"></iframe>
@@ -16,7 +17,7 @@ permalink: /travel/
   * Da Nang, Vietnam.
   * Hoi An, Vietnam.
   * Ho Chi Minh City, Vietnam.
-  * Singapore City, Singapore.
+  * Singapore.
 
 #### Past Trips
 
