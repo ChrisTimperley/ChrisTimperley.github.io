@@ -7,7 +7,7 @@ permalink: /publications/
 ### Accepted
 
 * **Wallace: A generic high-performance evolutionary computation framework.**<br/>
-  Chris Timperley, Susan Stepney. To appear in *ECAL 2015, York, UK, July 2014.*
+  Chris Timperley, Susan Stepney. To appear at *ECAL 2015, York, UK, July 2015.*
 
 ### Published
 
