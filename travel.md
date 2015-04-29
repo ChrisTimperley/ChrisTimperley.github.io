@@ -11,14 +11,6 @@ buried: true
 
 #### Upcoming Trips
 
-* **Summer, 2015:**
-  * Hanoi, Vietnam.
-  * Hue, Vietnam.
-  * Da Nang, Vietnam.
-  * Hoi An, Vietnam.
-  * Ho Chi Minh City, Vietnam.
-  * Singapore.
-
 #### Past Trips
 
 * **Winter, 2014/2015:**
