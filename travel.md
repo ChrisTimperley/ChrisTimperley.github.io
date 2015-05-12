@@ -16,7 +16,7 @@ buried: true
 * **Summer, 2015:**
  * [Singapore]().
  * [Vietnam]().
- * [Pittsburgh, PA, United States]().
+ * [Pittsburgh, PA, United States](). Research visit to [Institute of Software Research, Carnegie Mellon University](http://www.isri.cmu.edu/), funded by a William Gibbs award.
 
 * **Winter, 2014/2015:**
   * [Berlin, Germany]().
