@@ -13,6 +13,11 @@ buried: true
 
 #### Past Trips
 
+* **Summer, 2015:**
+ * [Singapore]().
+ * [Vietnam]().
+ * [Pittsburgh, PA, United States]().
+
 * **Winter, 2014/2015:**
   * [Berlin, Germany]().
   * [Prague, Czech Republic]().
@@ -20,4 +25,4 @@ buried: true
   * [Budapest, Hungary]().
   * [Warsaw, Poland]().
 * **Summer, 2014:**
-  * [New York City, United States](). Attended ALIFE '14 conference.
+  * [New York City, NY, United States](). Attended ALIFE '14 conference.
