@@ -11,7 +11,8 @@ permalink: /software/
   ease-of-use of dynamic-language-based tools, such as DEAP.
 * [**EvoAnalyser.py**](http://github.com/ChrisTimperley/EvoAnalyser.py)<br/>
   A tool and an associated file format, for framework-independent visualisation
-  and analysis of evolutionary algorithms from their log files.
+  and analysis of evolutionary algorithms from their log files. Written in
+  Python, powered by pandas, numpy, scipy, and matplotlib.
 * [**AutomatedRepairBenchmarks.c**](http://github.com/ChrisTimperley/AutomatedRepairBenchmarks.c)<br/>
   A collection of bug-ridden benchmark programs, written in C, tailored to be
   solved by automated repair techniques on as wide a range of platforms as
