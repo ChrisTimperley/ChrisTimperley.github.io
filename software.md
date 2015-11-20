@@ -9,6 +9,14 @@ permalink: /software/
 * [**Wallace.jl.**](http://github.com/ChrisTimperley/Wallace)<br/>
   A high-performance dynamic framework for evolutionary computation, written in [Julia](http://julialang.org/). Achieves the performance of C++/Java tools, such as ECJ and Evolving Objects, whilst maintaining the simplicity and
   ease-of-use of dynamic-language-based tools, such as DEAP.
+* [**EvoAnalyser.py**](http://github.com/ChrisTimperley/EvoAnalyser.py)<br/>
+  A tool and an associated file format, for framework-independent visualisation
+  and analysis of evolutionary algorithms from their log files. Written in
+  Python, powered by pandas, numpy, scipy, and matplotlib.
+* [**AutomatedRepairBenchmarks.c**](http://github.com/ChrisTimperley/AutomatedRepairBenchmarks.c)<br/>
+  A collection of bug-ridden benchmark programs, written in C, tailored to be
+  solved by automated repair techniques on as wide a range of platforms as
+  possible.
 * [**Push.jl.**](http://github.com/ChrisTimperley/Push.jl)<br/>
   A Julia implementation of the [Push](http://faculty.hampshire.edu/lspector/push.html) programming language for (auto-constructive) evolutionary computation. Integrates with Wallace to perform high-performance PushGP in Julia.
 * [**RubyREVAC.**](http://github.com/ChrisTimperley/RubyREVAC)<br/>
