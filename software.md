@@ -26,7 +26,7 @@ permalink: /software/
 
 * **Voyager (July 2011 - July 2013)**.<br/>
   A flexible cloud-based tool for performing financial analysis and anomaly detection, built using a variety of languages and tools,
-  including Ruby, Rails, AngularJS, C++, EC2, MongoDB and Redis.
+  including Ruby, Rails, AngularJS, Python, EC2, MongoDB and Redis.
 * **The Guild of Dark Knights**.<br/>
   An online massively multiplayer online role-playing game, set in Medieval Britain (and later in Late Medieval Europe and Near-Asia), where players
   assumed the role of a penniless bandit, and had to plunder, steal and battle their way to the rank of king. Hand-written in PHP, MySQL, HTML,
