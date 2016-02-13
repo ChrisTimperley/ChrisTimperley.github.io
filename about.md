@@ -32,14 +32,14 @@ permalink: /about/
 
 My research interests roughly cover, but are not limited to:
 
-* evolutionary computation.
-* search-based software engineering.
-* automated optimisation and repair.
-* program synthesis.
-* online machine learning.
-* computational reflection.
-* co-evolution.
-* theoretical biology.
+* evolutionary computation and meta-heuristics
+* search-based software engineering
+* automated optimisation and repair
+* program synthesis
+* failure-oblivious computing
+* online machine learning
+* computational reflection
+* co-evolution
 
 <div class="divider"></div>
 
