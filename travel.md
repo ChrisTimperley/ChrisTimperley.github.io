@@ -9,19 +9,20 @@ buried: true
 
 <div class="divider"></div>
 
-#### Upcoming Trips
-
-* **Winter, 2015:**
-    * [Amsterdam, Netherlands]()
-
 #### Past Trips
+
+* **Spring, 2016:**
+  * Lake District, United Kingdom
+
+* **Winter, 2015/16:**
+    * [Amsterdam, Netherlands]()
 
 * **Summer, 2015:**
   * [Singapore]().
   * [Vietnam]().
   * [Pittsburgh, PA, United States](). Research visit to [Institute of Software Research, Carnegie Mellon   University](http://www.isri.cmu.edu/), funded by a William Gibbs award.
 
-* **Winter, 2014/2015:**
+* **Winter, 2014/15:**
   * [Berlin, Germany]().
   * [Prague, Czech Republic]().
   * [Vienna, Austria]().
