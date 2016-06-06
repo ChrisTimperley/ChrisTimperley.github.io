@@ -34,12 +34,10 @@ My research interests roughly cover, but are not limited to:
 
 * evolutionary computation and meta-heuristics
 * search-based software engineering
-* automated optimisation and repair
-* program synthesis
+* automated program repair, optimisation and generation
+* automated debugging
 * failure-oblivious computing
-* online machine learning
-* computational reflection
-* co-evolution
+* (online) machine learning
 
 <div class="divider"></div>
 
