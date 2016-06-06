@@ -30,7 +30,7 @@ permalink: /about/
 
 ### Research
 
-My research interests roughly cover, but are not limited to:
+My current research interests roughly cover, but are not limited to:
 
 * evolutionary computation and meta-heuristics
 * search-based software engineering
