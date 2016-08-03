@@ -11,7 +11,7 @@ buried: true
 
 #### Past Trips
 
-* *2016:**
+* **2016:**
   * Hong Kong
   * Singapore
   * Lake District, United Kingdom
