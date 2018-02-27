@@ -19,7 +19,7 @@ permalink: /about/
     </td>
     <td style='padding-left: 15px'>
       <b>Contact Details</b><br/>
-      Email: <a href="mailto:ct584@york.ac.uk">ct584@york.ac.uk</a><br/>
+      Email: christimperley at gmail com<br/>
       Phone: +44 (0)1904 325500<br/>
       Office: Ron Cooke Hub, RN/336<br/>
     </td>
