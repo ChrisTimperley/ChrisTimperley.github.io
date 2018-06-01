@@ -12,16 +12,14 @@ permalink: /about/
     <td style='padding-left: 15px'>
       <b>Address</b><br/>
       Christopher Timperley<br/>
-      Department of Computer Science<br/>
-      University of York<br/>
-      YO10 5DD<br/>
-      United Kingdom<br/>
+      Institute for Software Research<br/>
+      Carnegie Mellon University<br/>
+      PA 15213<br/>
+      USA<br/>
     </td>
     <td style='padding-left: 15px'>
       <b>Contact Details</b><br/>
-      Email: christimperley at gmail com<br/>
-      Phone: +44 (0)1904 325500<br/>
-      Office: Ron Cooke Hub, RN/336<br/>
+      Email: ctimperley at cmu edu
     </td>
   </tr>
 </table>
@@ -32,12 +30,11 @@ permalink: /about/
 
 My current research interests roughly cover, but are not limited to:
 
+* automated program repair
+* automated testing for cyberphysical systems
+* software engineering for robotics
+* fault localization
 * evolutionary computation and meta-heuristics
-* search-based software engineering
-* automated program repair, optimisation and generation
-* automated debugging
-* failure-oblivious computing
-* (online) machine learning
 
 <div class="divider"></div>
 
