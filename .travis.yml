@@ -1,0 +1,13 @@
+language: ruby
+install:
+- gem install bundler
+- bundle install
+scripts:
+- LANG="en_GB.UTF-8" bundle exec jekyll build
+deploy:
+- provider: pages
+  skip_cleanup: true
+  local_dir: _site
+  github_token: "$GITHUB_TOKEN"
+  on:
+    branch: master
