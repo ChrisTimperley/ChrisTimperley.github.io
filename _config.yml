@@ -1,8 +1,12 @@
 encoding: utf-8
 title: Chris Timperley
+name: Chris Timperley
 email: ctimperley@cmu.edu
 baseurl: ""
 url: "http://www.christimperley.co.uk"
+repository: ChrisTimperley/ChrisTimperley.github.io
+
+# social settings
 twitter_username: ChrisTimps
 github_username:  ChrisTimperley
 
