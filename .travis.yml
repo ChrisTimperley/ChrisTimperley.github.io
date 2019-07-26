@@ -1,11 +1,16 @@
 # References
 # https://paulfioravanti.com/blog/2018/10/29/build-a-ci-cd-pipeline-for-your-jekyll-site/
 sudo: false
+dist: trusty
 language: ruby
 cache: bundler
-install:
-- gem install bundler
-- bundle install
+rvm:
+  - 2.6.3
+before_install:
+  - gem update --system
+  - gem install bundler
+# install:
+# - bundle install
 branches:
   only:
   - update
@@ -18,6 +23,7 @@ deploy:
   name: Travis Deployment Bot
   skip_cleanup: true
   local_dir: _site
+  target_branch: master
   keep_history: true
   github_token: "$GITHUB_TOKEN"
   on:
