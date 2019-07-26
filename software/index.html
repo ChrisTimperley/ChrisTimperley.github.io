@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Chris Timperley</title>
+  <title>Software | Chris Timperley</title>
   <meta name="description" content="The source code for my personal website.">
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-  <link rel="canonical" href="http://www.christimperley.co.uk/">
+  <link rel="canonical" href="http://www.christimperley.co.uk/software/">
   <link rel="alternate" type="application/rss+xml" title="Chris Timperley" href="http://www.christimperley.co.uk/feed.xml" />
 </head>
 <script>
@@ -99,32 +99,55 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
-  <div style="background-color: #efefef; margin-bottom: 20px; padding: 8px; border: 3px dashed #dddddd">
-    <image src="/images/profile.jpg" style="margin-left: 16px; width:160px; float: right"/>
-    <div style='padding: 8px;'>
-      <p>I am a Systems Scientist in
-      <a href="http://www.clairelegoues.com/">Prof. Claire Le Goues's</a>
-      <a href="https://squareslab.github.io/">squaresLab</a>
-      at the
-      <a href="http://www.isri.cmu.edu/">Institute for Software Research</a>,
-      <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
-      My research focuses on the development and application of techniques for
-      automatically testing, debugging and repairing robotics systems.
-      Before becoming a postdoc at CMU,
-      I was a PhD student at the <a href="http://www.york.ac.uk">University of York</a>,
-      supervised by <a href="http://www-users.cs.york.ac.uk/susan/">Prof. Susan Stepney</a>,
-      where my thesis was on search-based program repair.
-      </p>
+        <div class="post">
 
-      <p>
-        When I'm not busy with research, I enjoy spending time karting up and down the country,
-        travelling around the world, and reading books at home.
-        In a past life I was also an indie game developer and start-up entrepreneur.
-      </p>
-    </div>
-    <div style='clear:both'></div>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Software</h1>
+  </header>
+
+  <article class="post-content">
+    <h3 id="open-source">Open Source</h3>
+
+<ul>
+  <li><a href="http://github.com/ChrisTimperley/Wallace"><strong>Wallace.jl.</strong></a><br />
+A high-performance dynamic framework for evolutionary computation, written in <a href="http://julialang.org/">Julia</a>. Achieves the performance of C++/Java tools, such as ECJ and Evolving Objects, whilst maintaining the simplicity and
+ease-of-use of dynamic-language-based tools, such as DEAP.</li>
+  <li><a href="http://github.com/ChrisTimperley/EvoAnalyser.py"><strong>EvoAnalyser.py</strong></a><br />
+A tool and an associated file format, for framework-independent visualisation
+and analysis of evolutionary algorithms from their log files. Written in
+Python, powered by pandas, numpy, scipy, and matplotlib.</li>
+  <li><a href="http://github.com/ChrisTimperley/AutomatedRepairBenchmarks.c"><strong>AutomatedRepairBenchmarks.c</strong></a><br />
+A collection of bug-ridden benchmark programs, written in C, tailored to be
+solved by automated repair techniques on as wide a range of platforms as
+possible.</li>
+  <li><a href="http://github.com/ChrisTimperley/Push.jl"><strong>Push.jl.</strong></a><br />
+A Julia implementation of the <a href="http://faculty.hampshire.edu/lspector/push.html">Push</a> programming language for (auto-constructive) evolutionary computation. Integrates with Wallace to perform high-performance PushGP in Julia.</li>
+  <li><a href="http://github.com/ChrisTimperley/RubyREVAC"><strong>RubyREVAC.</strong></a><br />
+A simple, but effective implementation of <a href="">Eiben and Nannen’s REVAC (Relevance Estimation and Value Calibration)</a> method for efficiently tuning meta-heuristic parameters, written in Ruby.</li>
+</ul>
+
+<h3 id="closed-source">Closed Source</h3>
+
+<ul>
+  <li><strong>Voyager (July 2011 - July 2013)</strong>.<br />
+A flexible cloud-based tool for performing financial analysis and anomaly detection, built using a variety of languages and tools,
+including Ruby, Rails, AngularJS, Python, EC2, MongoDB and Redis.</li>
+  <li><strong>The Guild of Dark Knights</strong>.<br />
+An online massively multiplayer online role-playing game, set in Medieval Britain (and later in Late Medieval Europe and Near-Asia), where players
+assumed the role of a penniless bandit, and had to plunder, steal and battle their way to the rank of king. Hand-written in PHP, MySQL, HTML,
+Javascript and CSS, when I was aged 14. At its peak, the game had over 50,000 registered users.</li>
+  <li><strong>Chaos2020</strong>.<br />
+Following the success of TGODK, I spent two years developing Chaos2020, another highly ambitious MMORPG, set in the turmoil of a post-apocalyptic world
+in the aftermath of a nuclear war, where players come together to rebuild civilisation, fighting for control over the precious few resources left.
+After writing the game from scratch several times over, I eventually shelved it as I started university and the market sadly shrank.</li>
+  <li><strong>University of York Karting Club Website</strong>.<br />
+Replaced an archaic website with an extensive dynamic website, complete with an events system, details results and race analysis, and track and
+driver records. Built using <a href="http://rubyonrails.org/">Rails</a>, <a href="http://haml.info/">HAML</a>, <a href="http://getbootstrap.com/">Bootstrap</a>,
+<a href="http://sass-lang.com/">SASS</a>, <a href="https://puppetlabs.com/">Puppet</a> and <a href="https://www.heroku.com/">Heroku</a>.</li>
+</ul>
+
+  </article>
+
 </div>
 
       </div>
