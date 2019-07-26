@@ -13,6 +13,12 @@ github_username:  ChrisTimperley
 # Build settings
 markdown: kramdown
 
+# site file settings
+include:
+  - .htaccess
+  - ._pages
+  - CNAME
+
 plugins: ['jekyll/scholar']
 
 scholar:
