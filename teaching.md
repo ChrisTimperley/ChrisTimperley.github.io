@@ -4,18 +4,19 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* **Software Measurement and Testing (SMAT) (University of York, Spring 2016)**
-  Helped to supervise lab sessions, and delivered an introductory lecture on automated
-  program repair.
+### [University of York, UK](https://www.york.ac.uk/)
+
+* **Software Measurement and Testing (SMAT) (Spring 2016)**<br/>
+  Helped to supervise lab sessions as a *teaching assistant*,
+  and delivered an introductory lecture on automated program repair as
+  a *guest lecturer*.
   * [Automated Error Repair]()
-* **Evolutionary Computation (EVCO) (University of York, Fall 2015):**
-  Designed and delivered the lab sessions for the course and gave the following
-  guest lectures:
+* **Evolutionary Computation (EVCO) (Fall 2015)**<br/>
+  Designed and delivered the lab sessions as a *teaching assistant* for the
+  course, and gave two lectures as a *guest lecturer*.
   * [Evolutionary Computation for AI in Games]()
   * [An Introduction to Artificial Life]()
-
-
-Also served as a teaching assistant for:
-
-* Principles of Programming
-* Introduction to  Complex Systems ([CIDCATS](http://www.york.ac.uk/cidcats/))
+* **Principles of Programming Languages (POPL) (2014, 2015, 2016)**<br/>
+  Served as a *teaching assistant* for both lab sessions and theory recitations.
+* **Introduction to Complex Systems (2015)**<br/>
+  Served as a *teaching assistant* for lab session.
