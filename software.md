@@ -18,9 +18,9 @@ permalink: /software/
   GenProg TSE 2012's dataset, and [ROBUST](https://github.com/robust-rosin/robust).
   Check out the docs to [add support for BugZoo to your bug dataset!](https://squareslab.github.io/BugZoo/contributing/bugs.html)
 * [**roswire**](https://github.com/ChrisTimperley/roswire)<br/>
-  A Python library for static and dynamic analysis of containerised
-  Robot Operating System (ROS) applications.
-  Given a Docker image that contains a ROS application, roswire
+  A Python library for static and dynamic analysis of Robot Operating System
+  (ROS) applications.
+  Given a Docker image containing a ROS application, roswire
   automatically discovering its types, packages, messages, service,
   actions, etc., and provides an interface for dynamically generating
   and interacting with instances of that application in the form of
