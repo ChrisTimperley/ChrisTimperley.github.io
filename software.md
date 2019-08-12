@@ -17,6 +17,13 @@ permalink: /software/
   ManyBugs and IntroClass,
   GenProg TSE 2012's dataset, and [ROBUST](https://github.com/robust-rosin/robust).
   Check out the docs to [add support for BugZoo to your bug dataset!](https://squareslab.github.io/BugZoo/contributing/bugs.html)
+* [**Darjeeling**](https://github.com/squaresLab/Darjeeling)<br/>
+  Darjeeling is a language-agnostic search-based program repair tool.
+  Unlike other repair tools, such as GenProg, SPR, and Nopol,
+  Darjeeling delegates the responsibility of generating patches,
+  obtaining coverage, analyzing code, and executing tests to other services.
+  Once those auxillary concerns are removed, what is left is a lightweight
+  framework for composing and executing repair algorithms: Darjeeling.
 * [**roswire**](https://github.com/ChrisTimperley/roswire)<br/>
   A Python library for static and dynamic analysis of Robot Operating System
   (ROS) applications.
