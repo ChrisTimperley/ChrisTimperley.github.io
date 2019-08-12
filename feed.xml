@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Timperley</title>
-    <description></description>
+    <description>The source code for my personal website.</description>
     <link>http://www.christimperley.co.uk/</link>
     <atom:link href="http://www.christimperley.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Aug 2019 14:24:59 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Aug 2019 14:24:59 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Aug 2019 18:15:46 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Aug 2019 18:15:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
