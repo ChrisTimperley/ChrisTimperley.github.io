@@ -18,6 +18,7 @@ include:
   - .htaccess
   - ._pages
   - CNAME
+  - papers
 
 plugins: ['jekyll/scholar']
 
