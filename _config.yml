@@ -49,7 +49,7 @@ scholar:
     - tool
     - results
 
-  #repository: materials
+  repository: papers
 
   #details_dir:    bibliography
   #details_layout: bibtex.html
