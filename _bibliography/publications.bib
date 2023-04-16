@@ -2,26 +2,59 @@
 ---
 References
 ==========
+@inproceedings{robot-architecture-from-code,
+  shorthand={RSA'23},
+  title={Architectural Model Inference from Code for ROS-based Robotics Systems},
+  author={D{\"u}rschmid, Tobias and Timperley, Christopher S and Garlan, David and {Le Goues}, Claire},
+  year={2023},
+  booktitle={{Workshop on Robot Software Architectures}},
+  series={RSA '23},
+  note={Accepted},
+  keywords={mine,conference,conference-accepted}
+}
+
+@article{gzscenic,
+  shorthand={GzScenic},
+  title={GzScenic: Automatic scene generation for gazebo simulator},
+  author={Afzal, Afsoon and {Le Goues}, Claire and Timperley, Christopher S},
+  archivePrefix={arXiv},
+  eprint={2104.08625},
+  year={2021},
+  primaryClass={cs-ro},
+  keywords={mine,other,other-true},
+}
+
+@article{dbi,
+  shorthand={arXiv:2201.12464},
+  archivePrefix={arXiv},
+  title={{Using Dynamic Binary Instrumentation to Detect Failures in Robotics Software}},
+  author={Katz, {Deborah S} and Timperley, {Christopher S} and {Le Goues}, Claire},
+  eprint={2201.12464},
+  keywords={mine,other,other-true,industrial},
+  year={2022},
+  primaryClass={cs-se}
+}
+
 @inproceedings{sbst2021,
   shorthand={SBST'21},
   title={{Augmenting Search-based Techniques with Static Synthesis-based Input Generation}},
-  author={Santos, Paulo and Campos, Jos\'e and Timperley, Christopher S. and Fonseca, Alcides},
+  author={Santos, Paulo and Campos, Jos\'e and Timperley, Christopher S and Fonseca, Alcides},
   booktitle={{International Workshop on Search-Based Software Testing}},
   series={{SBST '21}},
   year={2021},
   keywords={mine,conference,conference-published},
-  note={(To appear.)},
+  note={Accepted},
 }
 
 @inproceedings{AfzalICST21,
   shorthand={ICST'21},
   title={Simulation for Robotics Test Automation: Developer Perspectives},
-  author={Afzal, Afsoon and Katz, {Deborah S.} and {Le Goues}, Claire and Timperley, {Christopher Steven}},
+  author={Afzal, Afsoon and Katz, {Deborah S} and {Le Goues}, Claire and Timperley, {Christopher S}},
   year={2021},
   booktitle={{International Conference on Software Testing}},
   series={ICST '21},
-  note={(To appear.)},
-  keywords={mine,conference,conference-accepted}
+  pages={263--274},
+  keywords={mine,conference,conference-published,industrial}
 }
 
 @inproceedings{ICSME20,
@@ -38,12 +71,112 @@ References
 @inproceedings{SimulationSurvey,
   shorthand={arXiv:2004.07368},
   title={A Study on the Challenges of Using Robotics Simulators for Testing},
-  author={Afzal, Afsoon and Katz, Deborah S. and {Le Goues}, Claire and Timperley, {Christopher Steven}},
+  author={Afzal, Afsoon and Katz, Deborah S and {Le Goues}, Claire and Timperley, {Christopher Steven}},
   year={2020},
   archivePrefix = {arXiv},
   eprint = {2004.07368},
   primaryClass = {cs-ro},
   keywords={mine,other,other-true},
+}
+
+@inproceedings{ardurepair,
+  shorthand={ISSRE'22},
+  title={{START: A Framework for Trusted and Resilient Autonomous Vehicles (Practical Experience Report)}},
+  author={
+    Leach\textsuperscript{*}, Kevin and
+    Timperley\textsuperscript{*}, {Christopher S} and
+    Angstadt, Kevin and
+    Nguyen-Tuong, Anh and
+    Hiser, Jason and
+    Paulos, Aaron and
+    Pal, Partha and
+    Hurley, Patrick and
+    Thomas, Carl and
+    Davidson, {Jack W.} and
+    Forrest, Stephanie and
+    {Le Goues}, Claire and
+    Weimer, Westley
+  },
+  year={2022},
+  keywords={mine,conference,conference-published},
+  booktitle={{International Symposium on Software Reliability Engineering}},
+  series={ISSRE '22},
+  pages={73--84}
+}
+
+@article{Mithra,
+  shorthand={Mithra},
+  title={{Mithra: Blackbox Oracle Learning for Cyberphysical Systems}},
+  author={Afzal, Afsoon and {Le Goues}, Claire and Timperley, {Christopher S}},
+  year={2022},
+  journal={{Transactions on Software Engineering}},
+  keywords={mine,journal,journal-published,industrial},
+  volume={48},
+  number={11},
+  pages={4535-4552}
+}
+
+@inproceedings{rosdiscover,
+  shorthand={ICSA'22},
+  title={{ROSDiscover: Statically Detecting Architecture Misconfigurations in Robotics Systems}},
+  author={Timperley, Christopher S and D{\"u}rschmid, Tobias and Schmerl, Bradley and Garlan, David and {Le Goues}, Claire},
+  year={2022},
+  booktitle={{International Conference on Software Architecture}},
+  series={{ICSA '22}},
+  pages={112--123},
+  keywords={mine,conference,conference-published,industrial}
+}
+
+@inproceedings{NIER23,
+  shorthand={ICSE-NEIR'23},
+  title={{Continuously Accelerating Research}},
+  author={Barr, Earl and Bell, Jonathan and Hilton, Michael and Mechtaev, Sergey and Timperley, Christopher S},
+  year={2023},
+  booktitle={{International Conference on Software Engineering: New Ideas and Emerging Results}},
+  series={ICSE NEIR '23},
+  note={Accepted},
+  keywords={mine,conference,conference-published}
+}
+
+@inproceedings{LiquidJava,
+  shorthand={ICSE'23},
+  title={{User-driven Design and Evaluation of Liquid Types in Java}},
+  author={Gamboa, Catarina and Santos, {Paulo Alexandre} and Timperley, {Christopher S} and Fonseca, Alcides},
+  year={2023},
+  booktitle={{International Conference on Software Engineering}},
+  series={ICSE '23},
+  note={Accepted},
+  keywords={mine,conference,conference-published}
+}
+
+@inproceedings{rosnewcomers,
+  shorthand={RoSE'22},
+  title={{The Developer Experience of Newcomers in Learning the Robot Operating System}},
+  author={Canelas, Paulo and Tavares, Miguel and Cordeiro, Ricardo and Fonseca, Alcides and Timperley, {Christopher S.}},
+  year={2022},
+  booktitle={{International Workshop on Robotics Software Engineering}},
+  series={RoSE '22},
+  note={Accepted},
+  keywords={mine,industrial,conference,conference-published}
+}
+
+@inproceedings{fse22-artifacts,
+  shorthand={FSE'22},
+  title={{A Retrospective Study of one Decade of Artifact Evaluations}},
+  author={
+        Winter, Stefan
+    and Timperley, Christopher S
+    and Hermann, Ben
+    and Cito, Jürgen
+    and Bell, Jonathan
+    and Hilton, Michael
+    and Beyer, Dirk
+  },
+  year={2022},
+  booktitle={{Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering}},
+  series={ESEC/FSE '22},
+  pages={145--156},
+  keywords={mine,conference,conference-published}
 }
 
 @inproceedings{TimperleyArtifacts,
@@ -99,9 +232,54 @@ References
   month   = {March}
 }
 
+@inproceedings{refactoringcrys,
+  shorthand={SEIP'22},
+  title={{Industry’s Cry for Tools that Support Large-Scale Refactoring}},
+  author={Ivers, James and Nord, {Robert L} and Ozkaya, Ipek and Seifried, Chris and Timperley, {Christopher S} and Kessentini, Marouane},
+  year={2022},
+  keywords={mine,conference,conference-published},
+  booktitle={{International Conference on Software Engineering -- Software Engineering in Practice: Poster Track}},
+  series={ICSE SEIP '22},
+  pages={163--164}
+}
+
+@inproceedings{fse-industry22,
+  shorthand={FSE-Industry'22},
+  title={{Industry Experiences with Large-Scale Refactoring}},
+  author={Ivers, James and Nord, Robert L and Ozkaya, Ipek and Seifried, Chris and Timperley, Christopher S and Kessentini, Marouane},
+  booktitle={{Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering: Industry Track}},
+  series={ESEC/FSE '22},
+  pages={1544--1554},
+  year={2022},
+  keywords={mine,conference,conference-accepted}
+}
+
+@article{TimperleyArtifacts,
+  shorthand={EMSE'21},
+  title={Understanding and Improving Artifact Sharing in Software Engineering Research},
+  author={Timperley, {Christopher S} and Herckis, Lauren and {Le Goues}, Claire and Hilton, Michael},
+  year={2021},
+  keywords={mine,journal,journal-published},
+  journal={{Empirical Software Engineering}},
+  pages={1--41},
+  volume={26},
+  issue={4},
+}
+
+@inproceedings{LiquidJavaReport,
+  shorthand={arXiv:2110.05444},
+  title={{User-driven Design and Evaluation of Liquid Types in Java}},
+  author={Gamboa, Catarina and Santos, {Paulo Alexandre} and Timperley, {Christopher S} and Fonseca, Alcides},
+  year={2021},
+  archivePrefix = {arXiv},
+  eprint = {2110.05444},
+  primaryClass = {cs-ro},
+  keywords={mine,other,other-true},
+}
+
 @InProceedings{AfzalTuringTest2018,
   author =       {Afsoon Afzal and Jeremy Lacomis and Claire {Le~Goues} and
-                  Christopher S. Timperley},
+                  Christopher S Timperley},
   title =        {A Turing Test for Genetic Improvement},
   booktitle =    {International Workshop on Genetic Improvement},
   year =         2018,
@@ -161,7 +339,7 @@ References
 }
 
 @inproceedings{DingLyuGI2019,
-  author =       {{Zhen~Yu} Ding and Yiwei Lyu and Christopher S. Timperley and Claire {Le~Goues}},
+  author =       {{Zhen~Yu} Ding and Yiwei Lyu and Christopher S Timperley and Claire {Le~Goues}},
   title =        {Leveraging Program Invariants to Promote Population Diversity in Search-Based Automatic Program Repair},
   booktitle =    {International Workshop on Genetic Improvement},
   pages =        {2--9},
@@ -214,7 +392,7 @@ References
 @phdthesis{TimperleyPhD,
   title={Advanced Techniques for Search-Based Program Repair},
   school={University of York},
-  author={C. S. Timperley},
+  author={C S Timperley},
   year={2017},
   month={July}
 }
@@ -222,7 +400,7 @@ References
 @phdthesis{TimperleyPhDQD,
   title={Reflective Open-Ended Evolution},
   school={University of York},
-  author={C. S. Timperley},
+  author={C S Timperley},
   year={2014},
   month={August},
   type={PhD Qualifying Dissertation}
@@ -231,7 +409,7 @@ References
 @mastersthesis{TimperleyMEng,
   title={Reflective Method Matching for Object-Oriented Programs},
   school={University of York},
-  author={C. S. Timperley},
+  author={C S Timperley},
   year={2013},
   month={July}
 }
