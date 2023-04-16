@@ -17,8 +17,6 @@ permalink: /teaching/
 * **Software Engineering Practicum (17-413) (Spring 2020)** Instructor.
 * **Principles of Software System Construction (15-214) (Fall 2019)** Instructor.
 * **Program Analysis (17-819) (Spring 2019)** Instructor.
-  Delivered a guest lecture on search-based program repair.
-  * [The Hitchhiker's Guide to Search-Based Program Repair](http://www.cs.cmu.edu/~aldrich/courses/17-355-19sp/notes/slides24-program-repair.pdf)
 * **Software Engineering Practicum (17-413) (Spring 2019)** Instructor.
 
 
