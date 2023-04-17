@@ -82,3 +82,30 @@ $on-laptop:        800px;
   left: 0;
   right: 0;
 }
+
+.section-divider-container h2 {
+  padding: 0;
+  padding-right: 15px;
+  top: -50%;
+  text-align: right;
+  color: #c5c5c5;
+  background-color: $background-color;
+  display: inline-flex;
+  position: relative;
+}
+
+.section-divider-container {
+  margin: 0;
+  margin-top: 20px;
+  position: relative;
+}
+
+.section-divider-container hr {
+  position: absolute;
+  border: none;
+  border-top: 3px solid #e8e8e8;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -5px;
+}

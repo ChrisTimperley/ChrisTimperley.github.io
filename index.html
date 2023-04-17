@@ -2,17 +2,19 @@
 layout: default
 ---
 <div class="home">
-<image src="/images/profile.jpg" style="margin-left: 16px; width:160px; float: right"/>
-  <p>I am Systems Faculty in the
-  <a href="https://s3d.cmu.edu">Software and Societal Systems Department</a> within the <a href="https://www.cmu.edu/scs">School of Computer Science</a> at
-  <a href="https://www.cmu.edu">Carnegie Mellon University</a>.
-  My research focuses on the development and application of techniques for
-  automatically testing, debugging and repairing robotics systems.
-  </p>
+  <div style="margin-bottom: 10px; display: inline-block; position: relative">
+    <image src="/images/profile.jpg" style="margin-left: 32px; width:160px; float: right"/>
+    <p align="justify">I research, teach, and build software as Systems Faculty in the
+    <a href="https://s3d.cmu.edu">Software and Societal Systems Department</a> within the <a href="https://www.cmu.edu/scs">School of Computer Science</a> at
+    <a href="https://www.cmu.edu">Carnegie Mellon University</a>.
+    My research interests lie at the intersection of software engineering, robotics, and program analysis, with a focus on developing and evaluating new languages, tools, and techniques for building, testing, and debugging robotics software.
+    </p>
+  </div>
 
-  <p>
-    When I'm not busy with research, I enjoy spending time karting up and down the country,
-    travelling around the world, and reading books at home.
-    In a past life I was also an indie game developer and start-up entrepreneur.
-  </p>
+  <div class="section-divider-container">
+    <hr />
+    <h2>Selected Publications</h2>
+  </div>
+  {% bibliography -q @*[keywords ~= selected]* %}
+
 </div>
