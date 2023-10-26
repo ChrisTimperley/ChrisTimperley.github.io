@@ -6,6 +6,7 @@ permalink: /teaching/
 
 ### [Carnegie Mellon University, USA](https://www.cmu.edu/)
 
+* **Quality Assurance (17-323) (Fall 2023)** Instructor.
 * **Software Engineering Practicum (17-413) (Spring 2023)** Instructor.
 * **Foundations of Software Engineering (17-313) (Fall 2022)** Instructor.
 * **Testing & Evaluation for Robotics (Executive Education) (Spring 2022)** Instructor.
