@@ -6,6 +6,9 @@ permalink: /teaching/
 
 ### [Carnegie Mellon University, USA](https://www.cmu.edu/)
 
+* **Software Engineering Practicum (17-413) (Spring 2024)** Instructor.
+* **Software Engineering Training Program (Executive Education) (Spring 2024)** Instructor.
+* **Robotics Research to Startup (Spring 2024)** Guest Lecturer.
 * **Quality Assurance (17-323) (Fall 2023)** Instructor.
 * **Software Engineering Practicum (17-413) (Spring 2023)** Instructor.
 * **Foundations of Software Engineering (17-313) (Fall 2022)** Instructor.
