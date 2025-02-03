@@ -4,8 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### [Carnegie Mellon University, USA](https://www.cmu.edu/)
+### [Carnegie Mellon University, USA](https://www.cmu.edu)
 
+* **Software Engineering Practicum (17-413) (Spring 2025)** Instructor.
+* **Software Engineering Training Program (Executive Education) (Spring 2025)** Instructor.
+* **Quality Assurance (17-323) (Fall 2024)** Instructor.
+* **Robotics Systems Engineering (16-450) (Fall 2024)** Guest Lecturer.
 * **Software Engineering Practicum (17-413) (Spring 2024)** Instructor.
 * **Software Engineering Training Program (Executive Education) (Spring 2024)** Instructor.
 * **Robotics Research to Startup (Spring 2024)** Guest Lecturer.
@@ -24,7 +28,7 @@ permalink: /teaching/
 * **Software Engineering Practicum (17-413) (Spring 2019)** Instructor.
 
 
-### [University of York, UK](https://www.york.ac.uk/)
+### [University of York, UK](https://www.york.ac.uk)
 
 * **Software Measurement and Testing (SMAT) (Spring 2016)**<br/> Teaching Assistant, Guest Lecturer.
 * **Evolutionary Computation (EVCO) (Fall 2015)** Teaching Assistant, Guest Lecturer.
