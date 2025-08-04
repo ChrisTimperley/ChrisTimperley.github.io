@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Timperley</title>
+    <description>The source code for my personal website.</description>
+    <link>chris.timperley.info/</link>
+    <atom:link href="chris.timperley.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Aug 2025 18:52:59 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 18:52:59 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+  </channel>
+</rss>
